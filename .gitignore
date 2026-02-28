@@ -24,3 +24,5 @@ yarn-error.log*
 
 
 .env
+kiosk-backend/.env
+kiosk-backend/node_modules
